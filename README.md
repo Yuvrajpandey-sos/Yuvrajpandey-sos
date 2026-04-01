@@ -47,7 +47,7 @@
 ## 🔥 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo" />
+  <img src="https://leetcard.jacoblin.cool/Yuvraj_Pandey001?theme=dark&font=baloo" />
 </p>
 
 ---

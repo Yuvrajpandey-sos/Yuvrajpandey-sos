@@ -11,7 +11,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
-[![leetcode]([![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black)(https://leetcode.com/u/Yuvraj_Pandey001/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yuvraj_Pandey001/)
 
 Short bio: A concise one-line summary about you — what you do and what you love to build.
 

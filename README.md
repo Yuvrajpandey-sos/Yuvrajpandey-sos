@@ -27,13 +27,16 @@
 </p>
 
 ### 🌐 Web
+<p align="center">
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+</p>
 
 ### ⚙️ Tools
+<p align="center">
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
-
+</p>
 ---
 
 

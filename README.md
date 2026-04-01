@@ -5,9 +5,8 @@
 
 # Yuvrajpandey SOS
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="6e0f174a-65aa-4cd9-94de-ec404845c48e.png" alt="Banner" width="100%" />
 </p>
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Your+Banner+Here)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)

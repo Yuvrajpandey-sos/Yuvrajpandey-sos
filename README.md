@@ -19,7 +19,7 @@ Short bio: A concise one-line summary about you — what you do and what you lov
 
 **Table of Contents**
 
-- **About:** Short bio and goals
+- **About:**Aspiring Software Engineer | Strong in C++ & DSA | Open to opportunitiesShort bio and goals
 - **Features:** What this README contains
 - **Skills & Tools:** Tech stack and proficiency
 - **Projects:** Showcase of notable projects

@@ -68,11 +68,11 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/yuvraj-pandey-713079307/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://leetcode.com/YOUR_USERNAME/">
+  <a href="https://leetcode.com/u/Yuvraj_Pandey001//">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
 

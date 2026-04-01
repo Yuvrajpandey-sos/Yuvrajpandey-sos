@@ -1,141 +1,99 @@
-﻿<!--
-  Feature-rich README template.
-  Replace placeholder values (NAME, BIO, LINKS) with your real info.
--->
+<h1 align="center">Hi 👋, I'm Yuvraj Pandey</h1>
+<h3 align="center">🚀 Full-Stack Developer | C++ Programmer | Problem Solver</h3>
 
-# Yuvrajpandey SOS
 <p align="center">
-  <img src="6e0f174a-65aa-4cd9-94de-ec404845c48e.png" alt="Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;C%2B%2B+%26+DSA+Enthusiast;Open+Source+Learner;Future+Software+Engineer&center=true&width=500&height=50">
 </p>
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yuvraj-pandey-713079307/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yuvraj_Pandey001/)
+---
 
-Short bio: A concise one-line summary about you — what you do and what you love to build.
+## 👨‍💻 About Me
+
+- 🎓 BTech Student passionate about tech  
+- 💻 Strong in **C++ & Data Structures**  
+- 🌱 Currently learning **Full Stack Development**  
+- 🚀 Building projects to crack top tech companies  
+- ⚡ Love solving problems & building useful tools  
 
 ---
 
-**Table of Contents**
+## 🛠️ Tech Stack
 
-- **About:**Aspiring Software Engineer | Strong in C++ & DSA | Open to opportunitiesShort bio and goals
-- **Features:** What this README contains
-- **Skills & Tools:** Tech stack and proficiency
-- **Projects:** Showcase of notable projects
-- **Open Source:** Contributions and OSS work
-- **Contact & Socials:** Where to find me
-- **Customize:** How to replace placeholders
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 
----
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
-**About**
-
-I build reliable, maintainable software focused on user experience and performance. I enjoy working on full-stack applications, automation, and developer tooling.
-
-**Key Highlights**
-
-- Role: Full-stack developer / Software engineer
-- Interests: Web, APIs, DevOps, automation, and data engineering
-- Location: City, Country (optional)
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 
 ---
 
-**Features Included in This README**
+## 📊 GitHub Stats (Live)
 
-- Clean header with banner and badges
-- Table of contents for quick navigation
-- Skills matrix and technology badges
-- Projects section with templates for screenshots, tech and links
-- Social links and contact info block
-- Customization instructions and quick tips
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvrajpandey-sos&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-**Skills & Tools**
-
-| Area | Technologies |
-|---|---|
-| Frontend | React, Vue, Svelte, HTML, CSS, TailwindCSS |
-| Backend | Node.js, Express, Python, FastAPI, Go |
-| Databases | PostgreSQL, MySQL, MongoDB, Redis |
-| DevOps & Cloud | Docker, Kubernetes, GitHub Actions, AWS, Azure |
-| Testing | Jest, PyTest, Playwright |
-
-Badges (examples):
-
-- ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvrajpandey-sos&theme=tokyonight" />
+</p>
 
 ---
 
-**Projects**
+## 🔥 LeetCode Stats
 
-1) Project One — Project description in one line.
-
-	- Technologies: React, Node.js, PostgreSQL
-	- Status: Active / Archived
-	- Links: Demo | Repo
-	- Short notes: What problem it solves and unique aspects.
-
-	Screenshot:
-
-	![Project One Screenshot](https://via.placeholder.com/800x400.png?text=Project+One+Screenshot)
-
-2) Project Two — Another project showcase.
-
-	- Technologies: Python, FastAPI, Docker
-	- Status: Active
-	- Links: Demo | Repo
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo" />
+</p>
 
 ---
 
-**Open Source & Contributions**
+## 🚀 Projects
 
-- Highlights of contributions to notable OSS projects
-- Links to PRs, issues, or maintainer roles
+- 🔹 **Chat Application (C++)**
+  - Real-time messaging using sockets  
 
----
+- 🔹 **Student Management System**
+  - File handling + CRUD operations  
 
-**Contact & Social Links**
-
-Replace the placeholder URLs with your real profiles.
-
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-handle
-- GitHub: https://github.com/your-github-username
-- Twitter / X: https://twitter.com/your-handle
-- Personal Website: https://your-website.example.com
-- Email: mailto:your.email@example.com
-- StackOverflow: https://stackoverflow.com/users/your-id/your-name
-- Medium: https://medium.com/@your-handle
-- Dev.to: https://dev.to/your-handle
-- Resume (PDF): https://your-website.example.com/resume.pdf
-
-You can also use social badges with direct links:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-handle)
-[![Website](https://img.shields.io/badge/Website-Visit-blueviolet?logo=google-chrome)](https://your-website.example.com)
+- 🔹 **Portfolio Website**
+  - Responsive personal website  
 
 ---
 
-**How to Customize**
+## 🌐 Connect with me
 
-1. Update the top title with your full name.
-2. Replace the banner image URL with your preferred image or remove it.
-3. Replace bio and key highlights with your real info.
-4. Fill real project entries with descriptions, links, and screenshots.
-5. Replace all social placeholder links with your actual URLs.
-6. Optionally, add GitHub stats, visitor counters, or pinned repos.
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-Quick tip: For badges use https://shields.io/ to generate custom badges for technologies, email, or website.
+  <a href="https://leetcode.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+
+  <a href="https://github.com/Yuvrajpandey-sos">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-**License**
+## 🐍 Contribution Snake Animation
 
-This README template is free to use and adapt. If you redistribute, please keep attribution if possible.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-If you'd like, I can fill this README with your real information now — share your name, short bio, and the social links you want included.
+## ⚡ Fun Fact
+
+💡 “Consistency beats talent. I code every day to become better.”
+
+---
 
